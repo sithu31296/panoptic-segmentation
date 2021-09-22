@@ -77,9 +77,7 @@ data
 ```
 </details>
 
-<br>
-
-## <div align="center">Usage</div>
+## <div align="center">Usage (Coming Soon)</div>
 
 <details>
   <summary><strong>Requirements</strong> (click to expand)</summary>
